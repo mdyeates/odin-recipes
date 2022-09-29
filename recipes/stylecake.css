@@ -1,0 +1,20 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:justify
+
+}
+     
+.title {
+    color: white;
+    background-color:dimgrey;
+    text-align: center;
+}
+
+.image {
+    width: 300px;
+}
+
+.list {
+    color:darkslategrey;
+
+}
